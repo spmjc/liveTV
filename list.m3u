@@ -1,13 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/spmjc/liveTV/master/logos/tf1.png" group-title="France",TF1
-http://www.streaming-hub.com/tf1-direct/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/spmjc/liveTV/master/logos/france2.png" group-title="France",F2
-http://live.francetv.fr/simulcast/France_2/hls/ZXhwPTE1MDk5MzUyMDl+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV8yJTJmaGxzKn5obWFjPWIxNjRlZjI1ZjIxY2Q3ODM1MGI0NTJkZjEwODdjYmQ1ZGZlN2U1NjgwNWZkZDY3YjE1N2M1MzBhZGExZjE0YTg=/France_2-audio_AACL_qad_65600_415=65600-1482036.ts
+http://s3.live-tv-direct.com:8000/hls/tf1/tf1.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjY5LjEzNi4xMTAuMiIsImV4cCI6MTUwOTkyMjcxNCwiaXNzIjoiaHR0cDovL3d3dy5zdHJlYW1pbmctaHViLmNvbSJ9.b7ewslS6s-T7PIFQI7QrpGQGR7hPRWbQoJ2XINQ771VUgFDcz0mx58-EirhK6uSqoZ4xXJPVuH0qqZuM-tralg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCE",Gong
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/spmjc/liveTV/master/logos/france2.png" group-title="NBA",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/spmjc/liveTV/master/logos/france2.png" group-title="USA",NBA
 http://universeiptv.com:8000/live/helmi/helmi/2120.ts
